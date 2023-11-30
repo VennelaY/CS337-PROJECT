@@ -1,11 +1,11 @@
 # CS337 AI/ML PROJECT - MOVIE RECOMMENDATION SYSTEM
-Team Members:
+### Team Members:
  -  Masada Jaswanthi - 210050095
  - Narkedamilli Harika - 210050106
- - Soupati Sri Nithya 210050152
+ - Soupati Sri Nithya - 210050152
  - Yarabolu Vennela - 210050168
 
-Data Set : 
+### Data Set : 
   [https://files.grouplens.org/datasets/movielens/ml-latest](https://files.grouplens.org/datasets/movielens/ml-latest)
   
 This data folder contains :
@@ -14,8 +14,10 @@ This data folder contains :
   - genome-tags.csv   : conatins tags assocaiated with an tag_id
   - genome-scores.csv : contains relevance of each mvoei with a tag( each line - movie_id,tag_id,score)
     
-movie-recommender-systems.ipynb : contains our whole code
+movie-recommender-systems.ipynb : contains all the models we have implemented 
 
-Instructions to run:
+### Instructions to run:
 
-  Download this and rename it to data2 and place it in the same folder as of movie-recommender-systems.ipynb and just run ipynb file.
+  Download this and rename it to data2 
+  
+  Place it in the same folder as of movie-recommender-systems.ipynb and just run ipynb file.
